@@ -5,6 +5,7 @@ fields:
 - type: text
   name: site_name
   label: Site name
+  default: The Harvey Johnston Clan
 - type: textarea
   name: site_description
   label: Site description
