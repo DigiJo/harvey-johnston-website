@@ -1,6 +1,6 @@
 ---
 date: 2020-04-05
-thumbnail: "/uploads/amy-castlewellan-forest-park.jpg"
+thumbnail: "/uploads/20191020_131846.jpg"
 title: Winter sunnies
 location: []
 project_bg_color: ''
