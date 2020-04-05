@@ -8,7 +8,7 @@
           <h1 class="project-title" v-html="$page.post.title" />
           <div class="project-info">
 
-            <div class="categories-container">
+            <div class="location-container">
               <div class="location">
                 <span class="label">Location</span>
                 <span 
