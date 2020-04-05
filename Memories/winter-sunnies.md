@@ -7,7 +7,7 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-[Castlewellan forest park](https://www.nidirect.gov.uk/articles/castlewellan-forest-park) is one of Northern Ireland's hidden gems and is situated in county Down, around an hour drive from Belfast. Amy and I spent 2 hours walking around the guided trek taking in the beautiful, natural scenery on a cold, sunny winter's day.
+[Castlewellan forest park](https://www.nidirect.gov.uk/articles/castlewellan-forest-park) is one of Northern Ireland's hidden gems and is situated in county Down, around an hour drive from Belfast. Amy and I spent 2 hours walking around the guided trek taking in the beautiful, natural scenery on a cold, sunny winter's day. 
 
 ![](/uploads/amy-castlewellan-forest-park.jpg)
 
@@ -15,8 +15,6 @@ There are multiple guided trails you can take when visiting the park. This was o
 
 ![](/uploads/amy-and-jennie-annesley-gardens.jpg)
 
-  
-  
-When we're over the Covid-19* hump and the Government relaxes its guidance, I look forward to getting back here.  
-  
+When we're over the Covid-19* hump and the Government relaxes its guidance, I look forward to getting back here.
+
 \*Please follow the Government's[ Covid-19 guidance](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance/stay-at-home-guidance-for-households-with-possible-coronavirus-covid-19-infection "Covid-19") and save lives.
