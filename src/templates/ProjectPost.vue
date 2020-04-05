@@ -9,13 +9,13 @@
           <div class="project-info">
 
             <div class="categories-container">
-              <div class="categories">
-                <span class="label">Categories</span>
+              <div class="location">
+                <span class="label">Location</span>
                 <span 
-                  class="category"
-                  v-for="(category, index) in $page.post.location" 
+                  class="location"
+                  v-for="(location, index) in $page.post.location" 
                   :key="index"
-                  v-text="category"
+                  v-text="location"
                 />
               </div>
             </div>
@@ -81,10 +81,10 @@ export default {
 .project-info > div:last-of-type {
   margin: 0;
 }
-.category:after {
+.location:after {
   content: ', '
 }
-.category:last-of-type:after {
+.location:last-of-type:after {
   content: '';
 }
 </style>
