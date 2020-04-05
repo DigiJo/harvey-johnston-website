@@ -2,7 +2,7 @@
 date: 2020-04-05
 thumbnail: "/uploads/20191020_131846.jpg"
 title: Winter sunnies
-location: []
+location: Castlewellan Forest Park
 project_bg_color: ''
 project_fg_color: "#238414"
 
