@@ -81,9 +81,6 @@ export default {
 .project-info > div:last-of-type {
   margin: 0;
 }
-.location:after {
-  content: ', '
-}
 .location:last-of-type:after {
   content: '';
 }
