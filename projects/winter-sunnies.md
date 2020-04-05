@@ -4,7 +4,7 @@ thumbnail: "/uploads/20191020_131846.jpg"
 title: Winter sunnies
 location: []
 project_bg_color: ''
-project_fg_color: ''
+project_fg_color: "#238414"
 
 ---
 [Castlewellan forest park](https://www.nidirect.gov.uk/articles/castlewellan-forest-park) is one of Northern Ireland's hidden gems and is situated in county Down, around an hour drive from Belfast. Amy and I spent 2 hours walking around the guided trek taking in the beautiful, natural scenery on a cold, sunny winter's day.
