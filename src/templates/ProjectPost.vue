@@ -13,7 +13,7 @@
                 <span class="label">Categories</span>
                 <span 
                   class="category"
-                  v-for="(category, index) in $page.post.categories" 
+                  v-for="(category, index) in $page.post.location" 
                   :key="index"
                   v-text="category"
                 />
