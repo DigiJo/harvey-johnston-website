@@ -10,12 +10,12 @@
 
             <div class="categories-container">
               <div class="categories">
-                <span class="label">Categories</span>
+                <span class="label">Locations</span>
                 <span 
                   class="category"
-                  v-for="(category, index) in $page.post.categories" 
+                  v-for="(category, index) in $page.post.location" 
                   :key="index"
-                  v-text="category"
+                  v-text="location"
                 />
               </div>
             </div>
