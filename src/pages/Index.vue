@@ -16,7 +16,7 @@ query Posts {
         id
         date (format: "YYYY")
         title
-        categories
+        location
         thumbnail (quality: 90)
         path
       }
@@ -41,7 +41,7 @@ import LatestJournals from "@/components/LatestJournals"
 
 export default {
   components: {
-    Hero,
+    Hero, 
     ProjectsGrid,
     LatestJournals
   }
