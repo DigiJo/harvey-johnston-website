@@ -22,8 +22,10 @@ fields:
     display_utc: true
   default: now
   hidden: false
-- type: tag_list
-  name: location
+- name: location
+  type: text
+  config:
+    required: false
   label: Location
 - type: color
   name: project_bg_color
