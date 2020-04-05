@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteName: "Harvey-Johnston Clan",
+  siteUrl: `https://harveyjohnston.com`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  titleTemplate: "Harvey-Johnston Clan",
+  siteDescription: "The life and tales of the Harvey Johnston Clan. A place to share memories and thoughts with loved ones.",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
