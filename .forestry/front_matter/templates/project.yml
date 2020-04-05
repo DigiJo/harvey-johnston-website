@@ -23,8 +23,8 @@ fields:
   default: now
   hidden: true
 - type: tag_list
-  name: categories
-  label: Categories
+  name: location
+  label: Location
 - type: color
   name: project_bg_color
   config:
