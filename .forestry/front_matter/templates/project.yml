@@ -38,4 +38,5 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
+- projects/clarence-s-first-walk-in-the-park.md
 - projects/winter-sunnies.md
