@@ -1,6 +1,6 @@
 ---
 date: 2020-04-07
-thumbnail: "/uploads/20200407_191920 (1).jpg"
+thumbnail: "/uploads/20200407_191915.jpg"
 title: Clarence's first walk in the park
 location: Cherryvale, Belfast
 project_bg_color: ''
