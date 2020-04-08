@@ -7,9 +7,11 @@
         <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible.</p>
       </div>
 
-      <form class="contact-form" 
+      <form 
+        class="contact-form" 
         name="contact" 
         method="post"
+        action="/"
         data-netlify="true"
         data-netlify-honeypot="bot-field">
 
