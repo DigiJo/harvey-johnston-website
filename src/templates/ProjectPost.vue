@@ -39,7 +39,7 @@
 query ProjectPost ($path: String!) {
   post: projectPost (path: $path) {
     title
-    date (format: "D. MMMM YYYYgit push ")
+    date (format: "D. MMMM YYYY")
     content
     location
     project_bg_color
