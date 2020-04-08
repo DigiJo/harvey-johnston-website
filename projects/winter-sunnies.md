@@ -1,6 +1,6 @@
 ---
 date: 2020-04-05
-thumbnail: "/uploads/20191020_131846.jpg"
+thumbnail: "/uploads/20191020_131846 (1).jpg"
 title: Winter sunnies
 location: Castlewellan Forest Park
 project_bg_color: ''
@@ -9,7 +9,7 @@ project_fg_color: ''
 ---
 [Castlewellan forest park](https://www.nidirect.gov.uk/articles/castlewellan-forest-park) is one of Northern Ireland's hidden gems and is situated in county Down, around an hour drive from Belfast. Amy and I spent 2 hours walking around the guided trek taking in the beautiful, natural scenery on a cold, sunny winter's day.
 
-Look how cool Amy is (trying to be) in this picture. Winter sunnies on, striking that blue-steel pose like someone from a Fleetwood Mac video or a Lumberjack advert. 
+Look how cool Amy is (trying to be) in this picture. Winter sunnies on, striking that blue-steel pose like someone from a Fleetwood Mac video or a Lumberjack advert.
 
 ![](/uploads/20191020_131846.jpg)
 
