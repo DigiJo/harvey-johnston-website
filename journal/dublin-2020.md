@@ -37,13 +37,16 @@ Dublin is wet. Every time I go, it rains. And in Mid-August it did not disappoin
 
 Most of the tourist attractions were closed, but we'd seen them before and were not bothered. We did visit the Book of Kells and Trinity library. The Book of Kells was cool - even better when Amy got shouted at by the security guard.
 
-![](/uploads/20200818_124103.jpg)  
+![](/uploads/20200818_124102.jpg)
+
 The Book of Kells was overshadowed by the library which was an incredible spectacle.
 
-![](/uploads/20200818_124435.jpg)  
+![](/uploads/20200818_124435-1.jpg)
+
+  
 Overall, it was a great trip. Dublin was quiet which made traveling around and visiting places easier.
 
-![](/uploads/20200818_195034.jpg)
+![](/uploads/20200818_195034-1.jpg)
 
 I didn't capture many photographs. I decided to switch my phone during the trip in order to relax, and that's exactly what I did. It was a well-needed escape, and I'm very thankful to Amy for organizing it!
 
