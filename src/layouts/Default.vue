@@ -69,8 +69,13 @@ h1 {
   }
 }
 
+ul {
+    line-height: 1.5;
+    font-size: 1.15rem
+}
+
 a {
-  color: inherit;
+  color: lightcoral;
 }
 
 img {
