@@ -35,4 +35,6 @@ Dublin is wet. Every time I go, it rains. And in Mid-August is did not disappoin
 * [Yamamori](https://yamamori.ie/) - huge bowls of ramen
 * [Masa](http://www.masadublin.com/) - pretty disappointing tacos :-(
 
-Most of the tourist attractions were closed, but we'd seen them before so we were not bothered. We did visit the Book of Kells and Trinity library. Book of Kells was cool - even better when Amy got shouted at by the security guard - but it overshadowed by the awesome library
+Most of the tourist attractions were closed, but we'd seen them before so we were not bothered. We did visit the Book of Kells and Trinity library. The Book of Kells was cool - even better when Amy got shouted at by the security guard - but it was overshadowed by the library which was an incredible spectacle.  
+  
+Overall, it was a great trip and I'm sure we'll be back in Dublin
