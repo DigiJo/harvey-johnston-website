@@ -13,7 +13,7 @@ sections:
   - project
 - type: directory
   path: journal
-  label: Memories
+  label: Journal
   create: documents
   match: "**/*.md"
   templates:
