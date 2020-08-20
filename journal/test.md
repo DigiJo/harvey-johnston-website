@@ -1,17 +1,38 @@
 ---
-date: 2020-04-05
+date: 2020-08-17
 author: Joe
-title: Test
-excerpt: Lamb pig rooster sheep. Quack hammers eggplant is utters nails garden. Peacocks
-  baa ostriches owls. Onion organic oranges and purr ducks canning owls at a squeal.
-  Mallet herbs basil nest, in welding equipment pens quail. . Grapes nest pitch fork
-  an plows maple syru.
+title: Dublin 2020
+excerpt: Celebrations for Joe's 31st birthday
 
 ---
-Lamb pig rooster sheep. Quack hammers eggplant is utters nails garden. Peacocks baa ostriches owls. Onion organic oranges and purr ducks canning owls at a squeal. Mallet herbs basil nest, in welding equipment pens quail. . Grapes nest pitch fork an plows maple syru.
+4 days, 3 nights, and a whole lot of food. For my 31st birthday, Amy surprised me with a trip to Dublin - 3 nights B&B at the [Dean Hotel](https://deandublin.ie/).  
+  
+We decided to drive, and in my Sunday haze, I forgot to take the appropriate turn for Dublin, leading us to beautiful... Portadown. When driving through Portadown, we managed to capture some of its beauty: 
 
-Yearlings, quilt squeak doggies. Rooster celery pineapples fertilizer, a melon chirp pets in. Gourds utters at welding equipment a oink oink haybine. Shovels at rakes plows. Ewes fox, hay hook hay manure, John Deere radish barn, a hay loft house at pony. Apples ducks straw, quail a ostric hes donkey, hay hook cucumbers. Gourd.
+![](/uploads/sash-bonfire.jpg)
 
-Utters at welding equipment a oink oink haybine. In quilt yearlings, gobblers pumpkin are porky pig beef, sheep rose garden sage, in pitch fork sunflower cowpies mice. Prairie dogs raccoons robins rats. Mouse soybeans sweet corn hogs llamas or oink oink wind. Lamb pig rooster sheep. Grapes at yams mushrooms organic berries gobble. Hoot squeal moose quack, crows doggies frogs crickets chirp. Mouse soybeans sweet corn hogs llamas o.
+After leaving Portadown, Google safely shepherded us to Dublin.
 
-Oink oink wind. Kidney beans ostrich trucks. Bulls at rose garden cucumbers mice sunflower wheat in pig. Mouse soybeans sweet corn hogs llamas or oink oink wind. Bulls at rose garden cucumber.
+The [Dean Hotel](https://deandublin.ie/) was beautiful and we managed to get a free room upgrade which was great. The first night, my birthday night, Amy treated me to dinner at [Doolally](https://doolally.ie/). It was lovely and resembled [Dishoom](https://www.dishoom.com/) in London - we're huge fans!
+
+***
+
+The meal was beautiful, but the night was ended with a peculiar event. After finished our main course, 2 members of staff approached us and began dancing and singing "Happy birthday...". I was shocked - this wasn't the type of thing Amy would do. After 20 seconds, the entire restaurant was singing - I sort of loved the attention, to be honest.  
+  
+After the serenade finished, I questioned Amy. To my surprise, she was as shocked as I was. This was not her doing.
+
+Anyway, they kindly supplied us with some free, fine chocolate and pistachio cake - or so we thought. After consuming the cake and asking for the bill, we noticed the cake was indeed fine, but certainly not free, costing 9 euros.
+
+***
+
+Dublin is wet. Every time I go, it rains. And in Mid-August is did not disappoint. It rained the entire time, apart from 3 hours on Tuesday. Thankfully, we spent most of our time in restaurants, including:
+
+* [Sophies Dublin](https://sophies.ie/) - a part of our hotel and where we had breakfast every morning
+* [Doolally](https://doolally.ie/)
+* [Wing it](https://wingit.ie/) - we went twice and they are my favorite Buffalo wings to date!
+* [Pi]() - pretty good pizza and a popular spot
+* [Terra Madre]() - free, fresh, beautiful pasta in a very small and awkward restaurant. Best pasta we've ever had!
+* [Yamamori](https://yamamori.ie/) - huge bowls of ramen
+* [Masa](http://www.masadublin.com/) - pretty disappointing tacos :-(
+
+Most of the tourist attractions were closed, but we'd seen them before so we were not bothered. We did visit the Book of Kells and Trinity library. Book of Kells was cool - even better when Amy got shouted at by the security guard - but it overshadowed by the awesome library
