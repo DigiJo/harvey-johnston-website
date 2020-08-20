@@ -1,7 +1,7 @@
 ---
 date: 2015-11-27
 thumbnail: "/uploads/the-night-amy-and-joe-met.jpg"
-title: The first night. we met
+title: The first night we met
 location: Filthy McNasties
 project_bg_color: ''
 project_fg_color: ''
