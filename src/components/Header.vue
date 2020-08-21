@@ -65,7 +65,7 @@ export default {
     font-weight: 600;
     text-decoration: none;
     margin-top: 4px;
-    margin-right: 3rem;
+    margin-right: 1rem;
     padding-bottom: 4px;
     border-bottom: 1px solid;
     border-color: transparent;
